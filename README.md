@@ -196,6 +196,12 @@ https://www.nikkei.com/article/DGXMZO64310620Y0A920C2000000/#:~:text=TBS%E7%B3%B
 
 #### Chunk300、GPT4
 
+EmbeddingしたURL
+
+https://ja.wikipedia.org/wiki/2020%E5%B9%B4%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93_(%E6%97%A5%E6%9C%AC)
+
+約35万文字で日本3位の長さのwikiらしい
+
 
 {
   "query": "2020年9月27日に放送された半沢直樹の最終話の視聴率はいくつですか？   具体的な数字を教えてください。",
