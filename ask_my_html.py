@@ -83,7 +83,7 @@ def get_html_text():
             # 適切な chunk size は対象によって変わるため調整が必要
             # 大きくしすぎると質問回答時に色々な箇所の情報を参照することができない
             # 逆に小さすぎると一つのchunkに十分なサイズの文脈が入らない
-            chunk_size=500,
+            chunk_size=300,
             chunk_overlap=0,
         )
         return text_splitter.split_text(content)
